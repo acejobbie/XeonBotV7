@@ -10,35 +10,35 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['923470027813'] //ur owner number
-global.ownernomer = "923470027813" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: xIKRATOSx" //ur yt chanel name
-global.socialm = "GitHub: xIKRATOSx" //ur github or insta name
-global.location = "Pakistan, Punjab, Gujranwala" //ur location
+global.owner = ['254113200483'] //ur owner number
+global.ownernomer = "254113200483" //ur owner number2
+global.ownername = "🏴‍☠️⃝🅐Ҫﻉ᙮ 𝙆Ⓘཞ𝕂🉑🔥" //ur owner name
+global.ytname = "YT: Acejobbie98" //ur yt chanel name
+global.socialm = "GitHub: Ace Jobbie" //ur github or insta name
+global.location = "Kenya, Nakuru, Naks" //ur location
 
 //new
-global.botname = "Cheems Bot MD V7"
-global.ownernumber = '923470027813'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["923470027813@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@xIKRATOSx"
-global.websitex = "https://youtube.com/@xIKRATOSx"
+global.botname = "𒋨🏴‍☠️⃝𝘼𝘾𝙀☠️𝘽𝙊𝙏⃝𒋨🉑"
+global.ownernumber = '254113200483'
+global.ownername = '🏴‍☠️⃝🅐Ҫﻉ᙮ 𝙆Ⓘཞ𝕂🉑🔥'
+global.ownerNumber = ["254113200483@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@Acejobbie98"
+global.websitex = "https://youtube.com/@Acejobbie98"
 global.wagc = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.themeemoji = '🥀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/xIKRATOSx/XeonBotV7' //script link
-global.packname = "Sticker By"
-global.author = "Cheems Bot\n\n\nA whatsapp bot developed by\n🦄xIKRATOSx\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +923470027813"
-global.creator = "923470027813@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.themeemoji = '🉑'
+global.wm = "Ace Bot Inc."
+global.botscript = 'https://github.com/acejobbie/XeonBotV7' //script link
+global.packname = "𝙸 αɱ Ⓐϲе™⟦𝟭⟧."
+global.author = "🏴‍☠️⃝🅐Ҫﻉ᙮ 𝙆Ⓘཞ𝕂🉑🔥\n\n\nA whatsapp bot developed by\n🉑Ace\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +254113200483"
+global.creator = "254113200483@s.whatsapp.net"
+global.prefa = ['&']
 global.port = '5000'
 
 //media target
-global.thum = 'https://telegra.ph/file/1b9fc7f9043bb46ad3098.jpg' //ur thumb pic
-global.log0 = 'https://telegra.ph/file/1b9fc7f9043bb46ad3098.jpg' //ur logo pic
-global.err4r = 'https://telegra.ph/file/1b9fc7f9043bb46ad3098.jpg' //ur error pic
-global.thumb = 'https://telegra.ph/file/1b9fc7f9043bb46ad3098.jpg' //ur thumb pic
+global.thum = 'https://telegra.ph/file/c9f1fbd5b78d902762e5f.jpg' //ur thumb pic
+global.log0 = 'https://telegra.ph/file/c9f1fbd5b78d902762e5f.jpg' //ur logo pic
+global.err4r = 'https://telegra.ph/file/c9f1fbd5b78d902762e5f.jpg' //ur error pic
+global.thumb = 'https://telegra.ph/file/c9f1fbd5b78d902762e5f.jpg' //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
