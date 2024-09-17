@@ -10,29 +10,30 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['254113200483'] //ur owner number
-global.ownernomer = "254113200483" //ur owner number2
+global.owner = ['254726856795'] //ur owner number
+global.ownernomer = "254726856795" //ur owner number2
 global.ownername = "🏴‍☠️⃝🅐Ҫﻉ᙮ 𝙆Ⓘཞ𝕂🉑🔥" //ur owner name
-global.ytname = "YT: Acejobbie98" //ur yt chanel name
-global.socialm = "GitHub: Ace Jobbie" //ur github or insta name
+global.ytname = "YT: acejobbie98" //ur yt chanel name
+global.socialm = "GitHub: acejobbie" //ur github or insta name
 global.location = "Kenya, Nakuru, Naks" //ur location
 
 //new
 global.botname = "𒋨🏴‍☠️⃝𝘼𝘾𝙀☠️𝘽𝙊𝙏⃝𒋨🉑"
-global.ownernumber = '254113200483'
-global.ownername = '🏴‍☠️⃝🅐Ҫﻉ᙮ 𝙆Ⓘཞ𝕂🉑🔥'
-global.ownerNumber = ["254113200483@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@Acejobbie98"
-global.websitex = "https://youtube.com/@Acejobbie98"
+global.ownernumber = '254726856795'
+global.ownername = '🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥'
+global.ownerNumber = ["254726856795@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@acejobbie98"
+global.websitex = "https://youtube.com/@acejobbie98"
 global.wagc = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
 global.themeemoji = '🉑'
 global.wm = "Ace Bot Inc."
 global.botscript = 'https://github.com/acejobbie/XeonBotV7' //script link
 global.packname = "𝙸 αɱ Ⓐϲе™⟦𝟭⟧."
-global.author = "🏴‍☠️⃝🅐Ҫﻉ᙮ 𝙆Ⓘཞ𝕂🉑🔥\n\n\nA whatsapp bot developed by\n🉑Ace\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +254113200483"
-global.creator = "254113200483@s.whatsapp.net"
-global.prefa = ['&']
+global.author = "🏴‍☠️⃝🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥\n\n\nA whatsapp bot developed by\n🉑Ace\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +254113200483"
+global.creator = "254726856795@s.whatsapp.net"
+global.prefa = ['#']
 global.port = '5000'
+global.sessionName = 'session'
 
 //media target
 global.thum = 'https://telegra.ph/file/c9f1fbd5b78d902762e5f.jpg' //ur thumb pic
